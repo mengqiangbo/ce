@@ -1,2 +1,2 @@
 <?php
-var_dump('xxx');
+var_dump('xxx');echo 'ccc';
